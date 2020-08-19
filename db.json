@@ -1,8 +1,14 @@
 {
-  "posts": [
+  "getAllList": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "五菱宏光",
+      "ctime": new Date()
+    },
+    {
+      "id": 2,
+      "name": "吉利熊猫",
+      "ctime": new Date()
     }
   ],
   "profile": {
