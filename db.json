@@ -1,17 +1,16 @@
 {
-  "getAllList": [
+  "posts": [
     {
       "id": 1,
-      "name": "五菱宏光",
-      "ctime": new Date()
-    },
-    {
-      "id": 2,
-      "name": "吉利熊猫",
-      "ctime": new Date()
+      "title": "hello"
     }
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "getAll":[{
+    "id":1,
+    'name':'吉利熊猫',
+    'ctime':'2020-08-19 13:22:22'
+  }]
 }
